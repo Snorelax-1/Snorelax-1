@@ -1,4 +1,3 @@
-[journal_submission naseeb, review.md](https://github.com/user-attachments/files/23079213/journal_submission.naseeb.review.md)
 # Quantified Self Data Project - Google and Data Tracking
 
 **Author** Naseeb Bains
