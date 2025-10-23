@@ -61,7 +61,7 @@ https://doi.org/10.1145/3292522.3326033
 
 
 
-## COMMENTS
+<!--Comments -->.
 
 <!-- The written content for this mark down submission is cohesive and well structured. A strong academic tone is also demonstrated while keeping accessibility and readability. This balance keeps the content engaging without feeling too overwhelming, each paragraph smoothly connects to the next with there being little run on sentences. The introduction does a great job at grabbing the readers attention by focusing on Google's influence in everyday life and linking it to privacy concerns. The style of writing is also confident and informed, boosted by the use of scholarly references. The sources are naturally placed into the written content preventing it from sounding detached. In terms of minor improvements, a few sentences are a little wordy, trimming some of the redundancy would help make the written content sharper. Breaking up the long blocks of text would also help in terms of look and readability, though the text is big enough where it's not too much of an issue.
 
